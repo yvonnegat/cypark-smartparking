@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cypark-smartparking/static/css/main.70ec4b0a.css",
+    "main.js": "/cypark-smartparking/static/js/main.a425d20c.js",
+    "static/js/453.9d47f95f.chunk.js": "/cypark-smartparking/static/js/453.9d47f95f.chunk.js",
+    "static/media/cypakLogo.png": "/cypark-smartparking/static/media/cypakLogo.2827f17d2cb388ec82ee.png",
+    "index.html": "/cypark-smartparking/index.html",
+    "main.70ec4b0a.css.map": "/cypark-smartparking/static/css/main.70ec4b0a.css.map",
+    "main.a425d20c.js.map": "/cypark-smartparking/static/js/main.a425d20c.js.map",
+    "453.9d47f95f.chunk.js.map": "/cypark-smartparking/static/js/453.9d47f95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ec4b0a.css",
+    "static/js/main.a425d20c.js"
+  ]
+}
