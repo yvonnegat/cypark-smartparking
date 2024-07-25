@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/cypark-smartparking/static/css/main.70ec4b0a.css",
-    "main.js": "/cypark-smartparking/static/js/main.0dfb3e3c.js",
+    "main.css": "/cypark-smartparking/static/css/main.3c9a1d8f.css",
+    "main.js": "/cypark-smartparking/static/js/main.372fdbed.js",
     "static/js/453.9d47f95f.chunk.js": "/cypark-smartparking/static/js/453.9d47f95f.chunk.js",
-    "static/media/cypakLogo.png": "/cypark-smartparking/static/media/cypakLogo.2827f17d2cb388ec82ee.png",
+    "static/media/credit.png": "/cypark-smartparking/static/media/credit.9c989068bd627700aaa8.png",
+    "static/media/mpesa.png": "/cypark-smartparking/static/media/mpesa.c8b9de802b69787ad9e6.png",
+    "static/media/paypal.png": "/cypark-smartparking/static/media/paypal.fb836c08c2ffcf5b394b.png",
     "index.html": "/cypark-smartparking/index.html",
-    "main.70ec4b0a.css.map": "/cypark-smartparking/static/css/main.70ec4b0a.css.map",
-    "main.0dfb3e3c.js.map": "/cypark-smartparking/static/js/main.0dfb3e3c.js.map",
+    "main.3c9a1d8f.css.map": "/cypark-smartparking/static/css/main.3c9a1d8f.css.map",
+    "main.372fdbed.js.map": "/cypark-smartparking/static/js/main.372fdbed.js.map",
     "453.9d47f95f.chunk.js.map": "/cypark-smartparking/static/js/453.9d47f95f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70ec4b0a.css",
-    "static/js/main.0dfb3e3c.js"
+    "static/css/main.3c9a1d8f.css",
+    "static/js/main.372fdbed.js"
   ]
 }
